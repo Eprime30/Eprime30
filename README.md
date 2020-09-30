@@ -32,18 +32,6 @@
 
 ---
 
-## 📊 Technical Skills
-<!--START_SECTION:waka-->
-```text
-Python  ██████████████░░░░░░░░░░░ 
-Django  █████████████░░░░░░░░░░░░ 
-React 	███████████░░░░░░░░░░░░░░ 
-Linux   ███████████████░░░░░░░░░░
-```
-<!--END_SECTION:waka-->
-
----
-
 <img align="left" alt="Eprime30's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eprime30&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/EBGameChanger
